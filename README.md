@@ -2,6 +2,7 @@
 Welcome to the showcase of projects from Section 1 of my school learning journey in object-oriented Java programming. This section focuses on the foundational concepts of Variables and User Input and Output. Each project demonstrates my initial exposure to these fundamental concepts and their implementation.
 
 <h2> Projects Overview </h2>
+
 - My Favs
 - Hello name
 - Snow Cone Stand
