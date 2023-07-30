@@ -7,15 +7,15 @@ Through hands-on experience, I honed my ability to prompt and store user input, 
 
 <h2> Projects </h2>
 
-<h3> Project 1: My Favs< h3> 
+<h3>Project 1: My Favs<h3> 
 
 This project introduces the concept of variables in Java and demonstrates how to display user-specific information using System.out.println. It prompts the user to enter their favorite movie, car choice, and graduation year, and then prints out the provided details.
 
-<h3>  Project 2: Hello Name <h3> 
+<h3>Project 2: Hello Name<h3> 
 
 In these projects, I explore user input using the Scanner class and JOption. The program asks for the user's name, stores it in a variable, and displays a personalized greeting along with my name.
 
-<h3>  Project 3: Snow Cone Stand <h3> 
+<h3>Project 3: Snow Cone Stand<h3> 
 
 In this practical application, I create a program to calculate sales tax for a snow cone stand. Using JOptionPane, the program prompts the user to enter the purchase amount and then computes the sales tax, displaying the total sale amount.
 
