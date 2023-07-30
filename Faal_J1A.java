@@ -1,5 +1,4 @@
-// My Favs - java_1A
-// Mohammad Faal - Faal23
+// My Favs 
 public class Faal_J1A{
     public static void main(String[] args)
     {
