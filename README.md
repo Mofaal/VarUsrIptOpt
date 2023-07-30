@@ -3,9 +3,9 @@ Welcome to the showcase of projects from Section 1 of my school learning journey
 
 <h2> Projects Overview </h2>
 
-- My Favs
-- Hello name
-- Snow Cone Stand
+- Project 1: My Favs
+- Project 2: Hello Name
+- Project 3: Snow Cone Stand
 
 <h2> Overview </h2>
 The projects showcased demonstrate a solid foundation in object-oriented programming principles. The programs demonstrate effective code organization, reusability, and modularity through the use of variables, conditional statements, loops, methods, classes, and arrays. In these projects, emphasizing OOP concepts improves code readability, maintainability, and scalability. Proper application of these skills promotes efficient problem-solving and lays the groundwork for future more sophisticated object-oriented Java development.
