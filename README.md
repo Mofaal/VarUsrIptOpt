@@ -15,13 +15,14 @@ In these projects, I explore user input using the Scanner class and JOption. The
 In this practical application, I create a program to calculate sales tax for a snow cone stand. Using JOptionPane, the program prompts the user to enter the purchase amount and then computes the sales tax, displaying the total sale amount.
 
 <h2> Java Skills Demonstrated </h2>
-- Defining and utilizing variables of different data types (String, double, int).
-- Displaying output using System.out.println.
-- Interacting with users through Scanner and JOptionPane for input and output.
-- Efficiently storing user input in variables for further processing.
-- Performing basic mathematical calculations.
-- Creating user-friendly output displays.
-- Building a foundation for more complex Java programming concepts.
+
+ - Defining and utilizing variables of different data types (String, double, int).
+ - Displaying output using System.out.println.
+ - Interacting with users through Scanner and JOptionPane for input and output.
+ - Efficiently storing user input in variables for further processing.
+ - Performing basic mathematical calculations.
+ - Creating user-friendly output displays.
+ - Building a foundation for more complex Java programming concepts.
 
 <h2> Instructions </h2>
 To run each project, make sure you have Java installed on your system.
