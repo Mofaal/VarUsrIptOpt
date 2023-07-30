@@ -5,7 +5,7 @@ Welcome to the showcase of projects from Section 1 of my school learning journey
 In this showcase of projects from Section 1 of my Java projects and Java learning journey, I present my first exposure to Java projects, focusing on Variables and User Input and Output. These projects allowed me to apply essential programming skills, such as defining and using variables, interacting with users through 'Scanner' and 'JOptionPane', and displaying output using 'System.out.println'. 
 Through hands-on experience, I honed my ability to prompt and store user input, showcasing proficiency in fundamental Java syntax and data manipulation. These projects provided a solid foundation in programming concepts, laying the groundwork for more advanced topics in object-oriented programming. As a beginner, I eagerly embraced each project, gaining valuable insights into the world of Java development and setting the stage for further growth as a Java programmer.
 <h2> Projects </h2>
-<h5> Project 1: (My Favs)](https://github.com/Mofaal/VarUsrIptOpt/blob/main/Faal_J1A.java)</h5>
+<h5> Project 1: My Favs <br/><a href="[https://github.com/mofaal](https://github.com/Mofaal/VarUsrIptOpt/blob/main/Faal_J1A.java)"></a></h5>
 This project introduces the concept of variables in Java and demonstrates how to display user-specific information using System.out.println. It prompts the user to enter their favorite movie, car choice, and graduation year and then prints out the provided details.
 <h5>Project 2: Hello Name</h5>
 In these projects, I explore user input using the Scanner class and JOption. The program asks for the user's name, stores it in a variable, and displays a personalized greeting along with my name.
