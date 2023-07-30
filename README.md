@@ -8,7 +8,6 @@ Through hands-on experience, I honed my ability to prompt and store user input, 
 <h2> Projects </h2>
 
 <h3>Project 1: My Favs<h3> 
-
 This project introduces the concept of variables in Java and demonstrates how to display user-specific information using System.out.println. It prompts the user to enter their favorite movie, car choice, and graduation year, and then prints out the provided details.
 
 <h3>Project 2: Hello Name<h3> 
