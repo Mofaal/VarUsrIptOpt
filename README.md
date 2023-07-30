@@ -8,16 +8,34 @@ Through hands-on experience, I honed my ability to prompt and store user input, 
 <h5> Project 1: My Favs</h5>
 This project introduces the concept of variables in Java and demonstrates how to display user-specific information using System.out.println. It prompts the user to enter their favorite movie, car choice, and graduation year and then prints out the provided details.
 
-<h5>Project 2: Hello Name</h5>h 
+<h5>Project 2: Hello Name</h5>
 In these projects, I explore user input using the Scanner class and JOption. The program asks for the user's name, stores it in a variable, and displays a personalized greeting along with my name.
 
 <h5>Project 3: Snow Cone Stand</h5>
 In this practical application, I create a program to calculate sales tax for a snow cone stand. Using JOptionPane, the program prompts the user to enter the purchase amount and then computes the sales tax, displaying the total sale amount.
 
+<h2> Java Skills Demonstrated </h2>
+- Defining and utilizing variables of different data types (String, double, int).
+- Displaying output using System.out.println.
+- Interacting with users through Scanner and JOptionPane for input and output.
+- Efficiently storing user input in variables for further processing.
+- Performing basic mathematical calculations.
+- Creating user-friendly output displays.
+- Building a foundation for more complex Java programming concepts.
 
+<h2> Instructions </h2>
+To run each project, make sure you have Java installed on your system.
 
+Clone this repository to your local machine using the following command:
 
-<h2> Java Skills Demonstrated: 
+bash
+Copy code
+git clone https://github.com/your-username/section-1-projects.git
+Navigate to the specific project folder using cd project-folder-name.
 
+Compile the Java file using javac ProjectName.java.
 
+Run the compiled Java program with java ProjectName.
+
+Follow the on-screen instructions for user input and interact with the programs.
 <br />
