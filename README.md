@@ -8,6 +8,7 @@ Through hands-on experience, I honed my ability to prompt and store user input, 
 <h5> Project 1: My Favs <br/><a href="[https://github.com/mofaal](https://github.com/Mofaal/VarUsrIptOpt/blob/main/Faal_J1A.java)"></a></h5>
 This project introduces the concept of variables in Java and demonstrates how to display user-specific information using System.out.println. It prompts the user to enter their favorite movie, car choice, and graduation year and then prints out the provided details.
 
+    {
         String movie, car;
         double carCost;
         int gradYear;
@@ -15,17 +16,18 @@ This project introduces the concept of variables in Java and demonstrates how to
         movie = "Rush Hour 2";
         car = "Ram TRX";
         carCost = 100000.00;
-        gradYear = 2023;
+        gradYear =2023;
+<h2>The output of the code will be:</h2>
 
-The output of the code will be:
-        System.out.println("My Favorite movie is " + movie);
-        System.out.println("My Favorite Car is " + car + " and it costs $" + carCost);
-        System.out.println("I will graduate in " + gradYear);
+        System.out.println("My Favorite movie is "+ movie);
+        System.out.println("My Favorite Car is "+ car+ " and it cost " + carCost);
+        System.out.println("My Grad Year is "+ movie);
     }
+    My Favorite movie is Rush Hour 2
+    My Favorite Car is Ram TRX and it costs $100000.0
+    I will graduate in 2023
+        }
 
-My Favorite movie is Rush Hour 2
-My Favorite Car is Ram TRX and it costs $100000.0
-I will graduate in 2023
 
 <h5>Project 2: Hello Name</h5>
 In these projects, I explore user input using the Scanner class and JOption. The program asks for the user's name, stores it in a variable, and displays a personalized greeting along with my name.
