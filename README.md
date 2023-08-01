@@ -17,16 +17,16 @@ This project introduces the concept of variables in Java and demonstrates how to
         car = "Ram TRX";
         carCost = 100000.00;
         gradYear =2023;
-<h2>The output of the code will be:</h2>
-
+        
         System.out.println("My Favorite movie is "+ movie);
         System.out.println("My Favorite Car is "+ car+ " and it cost " + carCost);
         System.out.println("My Grad Year is "+ movie);
-    }
+<h2>The output of the code will be:</h2>
+
     My Favorite movie is Rush Hour 2
     My Favorite Car is Ram TRX and it costs $100000.0
     I will graduate in 2023
-        }
+    
 
 
 <h5>Project 2: Hello Name</h5>
